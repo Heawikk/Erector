@@ -1,5 +1,5 @@
 # Erector - mod for Outlast
-Current version - Alpha 1.0
+Current version - Alpha 1.1
 
 ![ErectorBanner](https://github.com/Heawikk/Erector/assets/132798471/532a7d18-b06b-49a9-8754-9b95a3b5bdee)
 
