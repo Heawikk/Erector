@@ -24,12 +24,12 @@ https://www.dropbox.com/s/jd0q9f3mc74jxmv/Level_Launcher.Bat
 5. In Level Launcher type - play Erector
 
 # How use?
-Use Tilde (~) to open menu
+<p>Use Tilde (~) to open menu</p>
 
-F1 - Player Debug Menu
-F2 - Free Camera
-F3 - Show Level Information
-F4 - Show FPS
-F5 - ?
-F6 - Create teleport point
-F7 - Teleport to point
+<p>F1 - Player Debug Menu</p>
+<p>F2 - Free Camera</p>
+<p>F3 - Show Level Information</p>
+<p>F4 - Show FPS</p>
+<p>F5 - ?</p>
+<p>F6 - Create teleport point</p>
+<p>F7 - Teleport to point</p>
