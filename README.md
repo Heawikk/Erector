@@ -16,6 +16,9 @@ New version download link:
 https://hwk.su/Erector.zip
 
 # Install
+Video:
+https://www.youtube.com/watch?v=6kw7rF2Ob8M
+
 1. Download Level Launcher for Outlast
 https://www.dropbox.com/s/jd0q9f3mc74jxmv/Level_Launcher.Bat
 2. Drop Level Launcher to Outlast Main Directory
