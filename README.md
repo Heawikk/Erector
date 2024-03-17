@@ -1,5 +1,6 @@
 # Erector - mod for Outlast
 Current version - Alpha 1.0
+![ErectorBanner](https://github.com/Heawikk/Erector/assets/132798471/532a7d18-b06b-49a9-8754-9b95a3b5bdee)
 
 # Debug, Player Functions, World Functions and Entertainments
 # Base code <a href="https://github.com/superboo07/Outlast-Level-Editor/tree/main/Development/Src/SpeedrunHelper" target="_blank">SpeedrunHelper</a>
