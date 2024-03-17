@@ -27,7 +27,7 @@ https://www.dropbox.com/s/jd0q9f3mc74jxmv/Level_Launcher.Bat
 4. Drop Erector Folder from archive in Custom (in outlast directory) 
 5. In Level Launcher type - play Erector
 
-# How use?
+# Hotkeys
 <p>Use Tilde (~) to open menu</p>
 
 <p>F1 - Player Debug Menu</p>
