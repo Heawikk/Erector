@@ -30,10 +30,11 @@ https://www.dropbox.com/s/jd0q9f3mc74jxmv/Level_Launcher.Bat
 # Hotkeys
 <p>Use Tilde (~) to open menu</p>
 
-<p>F1 - Player Debug Menu</p>
+<p>F1 - God Mode</p>
 <p>F2 - Free Camera</p>
 <p>F3 - Show Level Information</p>
 <p>F4 - Show FPS</p>
-<p>F5 - ?</p>
+<p>F5 - Player Debug Info</p>
 <p>F6 - Create teleport point</p>
 <p>F7 - Teleport to point</p>
+<p>G - Noclip</p>
